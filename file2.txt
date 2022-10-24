@@ -1,0 +1,3 @@
+Something inside file2
+
+Hello
