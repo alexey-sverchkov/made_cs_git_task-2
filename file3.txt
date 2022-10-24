@@ -3,3 +3,4 @@ hehe, some info in file3
 yeeee
 
 change conflicting line within master branch
+add conflicting line change in file3.txt within feature-3
