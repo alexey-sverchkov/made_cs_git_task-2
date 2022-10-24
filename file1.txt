@@ -1,3 +1,5 @@
 Line1 text
 
-Update file1 txt with no conflicts
+Update file1 txt with no conflict
+
+Update file1 txt withing feature2 - no conflict
