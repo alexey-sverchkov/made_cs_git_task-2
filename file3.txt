@@ -1,3 +1,5 @@
 hehe, some info in file3
 
 yeeee
+
+change conflicting line within master branch
