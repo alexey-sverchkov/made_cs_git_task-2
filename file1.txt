@@ -1,1 +1,3 @@
 Line1 text
+
+Update file1 txt with no conflicts
